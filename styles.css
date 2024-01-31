@@ -1,0 +1,54 @@
+/* Affects everything! */
+* {
+  font-family: Arial;
+}
+
+/* Affects all the headings */
+h1, h2, h3 {
+  text-align: center;
+  font-style: italic;
+  font-weight: 500;
+  border-style: ridge;
+  border: 1px solid;
+  border-radius: 5px;
+}
+
+/* Affects the title */
+h1 {
+  color: dodgerblue;
+}
+
+/* Affects the headings */
+h2 {
+  color: deeppink;
+}
+
+/* Affects the sub-headings */
+h3 {
+  color: darkmagenta;
+}
+
+/* Affects the text and links */
+p, a {
+  text-align: center;
+  font-weight: 750;
+  color: midnightblue;
+  border: 1px solid dodgerblue;
+  border-radius: 5px;
+  padding: 10px:
+}
+
+/* Affects the lists */
+ul {
+    text-align: left;
+    font-weight: 750;
+    color: midnightblue;
+    border: 1px solid dodgerblue;
+    border-radius: 5px;
+    padding: 10px:
+}
+
+/* Background colour */
+body {
+  background-color: beige;
+}
